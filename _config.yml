@@ -1,0 +1,28 @@
+name: DFS Experts
+favicon: null
+layout_spectrum: 0.08634654385969043
+typography_spectrum: 0.6208446859382093
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6670982472132891
+  lightness: 0.6906417261343449
+  saturation: 0.20730317709967494
+  rhythmicContrast: 0.6404203344136477
+purpose: []
