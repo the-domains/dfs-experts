@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[DFS Experts]]></title>
         <description><![CDATA[DFS Experts]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://dfsgrid.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 18:19:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 18:22:04 GMT</lastBuildDate>
+        <atom:link href="http://dfsgrid.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce0ea3cb-cbc8-4759-9532-6a95523f067c.jpg">]]></description>
-            <link>undefinedfed716ec-de9e-46c7-9e49-7b2921c5b3b2/index.html</link>
+            <link>http://dfsgrid.com/fed716ec-de9e-46c7-9e49-7b2921c5b3b2/index.html</link>
             <guid isPermaLink="false">fed716ec-de9e-46c7-9e49-7b2921c5b3b2</guid>
-            <pubDate>Tue, 26 Apr 2016 18:19:14 GMT</pubDate>
+            <pubDate>Tue, 26 Apr 2016 18:22:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
